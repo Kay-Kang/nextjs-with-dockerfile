@@ -26,7 +26,7 @@ export default function Home() {
         {/* Hero Section */}
         <section className="flex flex-col gap-6 items-center max-w-4xl">
         <h2 className="text-5xl sm:text-6xl font-bold leading-tight">
-            This Website this Hosting BY LY SONKANG
+            This Website this Hosting BY Pich Ounnoun
           </h2>
           <h2 className="text-5xl sm:text-6xl font-bold leading-tight">
             Discover Your Next Adventure
